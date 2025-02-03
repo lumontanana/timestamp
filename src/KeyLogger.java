@@ -24,7 +24,7 @@ public class KeyLogger {
                 String input = scanner.nextLine();
 
                 // Salir del bucle si el usuario escribe "salir"
-                if ("s".equalsIgnoreCase(input)) {
+                if ("s           ".equalsIgnoreCase(input)) {
                     System.out.println("Finalizando programa...");
                     break;
                 }
